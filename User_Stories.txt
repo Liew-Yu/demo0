@@ -1,0 +1,19 @@
+1. As a player, I would like a card game so that I can kill time.
+
+2. As a player, I would like a card game so that I can have fun with friends and families.
+
+3. As a player, I would like a open card game so that many people can join with me.
+
+4. As a player, I would like to select difficulty so that I can adjust how hard the game is.
+
+5. As a player, I hope there is a "start" button so that I can click and start the game.
+
+6. As a player, I would like to select cards so that the program can turn them around.
+
+7. As a player, if the cards I select match, I would like the system to remove those matching cards from the game surface so that the game can keep going. 
+
+8. As a player, if the cards I select don't match, I would like the system to return those cards back so that the game can keep going. 
+
+9. As a player, I hope there is a Restart function so that I can start a new game after playing.
+
+10. As a player, I hope there is a Quit function so that when I don't want the game continue I can leave the game.
